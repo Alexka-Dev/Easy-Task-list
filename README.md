@@ -25,13 +25,13 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/todo-app-react.git
+    git clone https://github.com/Alexka-Dev/Easy-Task-list
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd todo-app-react
+    cd Easy-Task-list
     ```
 
 3. **Install dependencies:**
